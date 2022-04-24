@@ -1,0 +1,12 @@
+.card-list {
+  width:85vw;
+  margin:0 auto;
+  display:flex;
+  flex-wrap: wrap;
+  grid-gap: 20px;
+  align-content: center;
+}
+
+.card-container:hover{
+  transform: scale(1.05);
+}
